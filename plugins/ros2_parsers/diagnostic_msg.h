@@ -3,7 +3,7 @@
 #include <diagnostic_msgs/msg/diagnostic_array.hpp>
 #include <boost/spirit/include/qi.hpp>
 #include "ros2_parser.h"
-#include "fmt/format.h"
+#include "PlotJuggler/fmt/format.h"
 #include "header_msg.h"
 
 class DiagnosticMsgParser : public BuiltinMessageParser<diagnostic_msgs::msg::DiagnosticArray>

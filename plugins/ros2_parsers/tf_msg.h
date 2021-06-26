@@ -1,7 +1,7 @@
 #pragma once
 
 #include <tf2_msgs/msg/tf_message.hpp>
-#include "fmt/format.h"
+#include "PlotJuggler/fmt/format.h"
 #include "ros2_parser.h"
 
 class TfMsgParser : public BuiltinMessageParser<tf2_msgs::msg::TFMessage>

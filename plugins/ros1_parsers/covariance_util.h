@@ -1,6 +1,6 @@
 #pragma once
 
-#include "fmt/format.h"
+#include "PlotJuggler/fmt/format.h"
 #include "ros1_parser.h"
 
 template <size_t N>

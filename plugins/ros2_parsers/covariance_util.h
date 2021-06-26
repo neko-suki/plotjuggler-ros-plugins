@@ -1,6 +1,6 @@
 #pragma once
 
-#include "fmt/format.h"
+#include "PlotJuggler/fmt/format.h"
 #include "ros2_parser.h"
 
 using namespace Ros2Introspection;

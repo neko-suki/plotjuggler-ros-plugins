@@ -2,7 +2,7 @@
 
 #include <diagnostic_msgs/DiagnosticArray.h>
 #include <boost/spirit/include/qi.hpp>
-#include "fmt/format.h"
+#include "PlotJuggler/fmt/format.h"
 #include "ros1_parser.h"
 #include "header_msg.h"
 

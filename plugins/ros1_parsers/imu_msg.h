@@ -1,7 +1,7 @@
 #pragma once
 
 #include <sensor_msgs/Imu.h>
-#include "fmt/format.h"
+#include "PlotJuggler/fmt/format.h"
 #include "ros1_parser.h"
 #include "covariance_util.h"
 #include "quaternion_msg.h"

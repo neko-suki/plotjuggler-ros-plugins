@@ -2,7 +2,7 @@
 
 #include <tf/tfMessage.h>
 #include <tf2_msgs/TFMessage.h>
-#include "fmt/format.h"
+#include "PlotJuggler/fmt/format.h"
 #include "ros1_parser.h"
 #include "header_msg.h"
 
